@@ -1,0 +1,16 @@
+# AI Agent Instructions
+
+Project: Student Performance Dashboard
+
+## Requirements
+- Do not hardcode PT, NPT, ST counts.
+- Generate assessments dynamically.
+- Keep UI responsive.
+- Preserve existing functionality.
+- Use vanilla JavaScript.
+- Validate all user inputs.
+
+## Testing
+- Verify grade calculations.
+- Verify CGPA calculations.
+- Verify assessment generation.
